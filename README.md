@@ -8,7 +8,7 @@
   of science, particularly the fascinating realms of astrophysics .
 </p>
 <p align="center">
-  <a href="https://muhammad-ibn-e-khalid.github.io" target="_blank">
+  <a href="https://MIbnEKhalid.github.io" target="_blank">
     Visit My Website
   </a>
 </p>
@@ -34,12 +34,12 @@
 <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;">
     <td style="border:none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ibn-E-Khalid&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=MIbnEKhalid&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak" />
     </td>
     <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ibn-E-Khalid&layout=compact&theme=transparent&hide_border=true"
-      alt="Muhammad-Ibn-E-Khalid Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbnEKhalid&layout=compact&theme=transparent&hide_border=true"
+      alt="MIbnEKhalid Stats" />
     </td>
   </tr>
 </table>
@@ -47,14 +47,14 @@
 <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;margin:0 auto" align="center">
     <td style="border:none;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ibn-E-Khalid&theme=github-dark&hide_border=true"
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIbnEKhalid&theme=github-dark&hide_border=true"
       alt="Muhammad Bin Khalid Activity Graph" />
     </td>
   </tr>
 </table>
 
 
-<p  align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ibn-E-Khalid&theme=onestar" alt="rgr" /></a> </p>
+<p  align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" alt="rgr" /></a> </p>
 
 
 <!--
