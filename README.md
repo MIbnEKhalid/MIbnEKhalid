@@ -1,11 +1,8 @@
 
 
 <br />
-<p align="center">
-  I'm an enthusiastic self-taught developer with a passion for exploration and innovation. My journey has been shaped by an insatiable curiosity and
-  a dedication to mastering both hardware and software technologies. Through hands-on experience and continuous learning, I've honed my skills in Unity,
-  C++, and C#, allowing me to create exciting projects that blend the digital and physical worlds. Beyond coding, I'm deeply intrigued by the mysteries
-  of science, particularly the fascinating realms of astrophysics .
+<p align="center"  text-align="justify">
+I am an independent developer. My focus is on delivering high-quality, user-centric solutions, while continuously expanding my skills in Linux, Web development, Network Engineering, DevOps, CISCO and AWS. My ability to adapt and learn new technologies helps me effectively contribute to diverse projects and deliver impactful results.
 </p>
 <p align="center">
   <a href="https://MIbnEKhalid.github.io" target="_blank">
