@@ -35,7 +35,7 @@ I am an independent developer. My focus is on delivering high-quality, user-cent
       alt="GitHub Streak" />
     </td>
     <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbnEKhalid&layout=compact&theme=transparent&hide_border=true"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbnEKhalid&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,HLSL"
       alt="MIbnEKhalid Stats" />
     </td>
   </tr>
