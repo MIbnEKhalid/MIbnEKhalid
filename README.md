@@ -34,6 +34,7 @@ Portfolio
 
 
 <br />
+
 <h2 align="center">
   Stats ⚡️
 </h2>
@@ -42,6 +43,8 @@ Portfolio
     <td style="border:none;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=MIbnEKhalid&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak" />
+    </td>    <td style="border:none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&hide_title=true&include_all_commits=true&count_private=true&theme=&hide_border=true"   alt="stats graph" />
     </td>
     <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbnEKhalid&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,HLSL"
@@ -60,15 +63,14 @@ Portfolio
 </table>
  
  <table style="border:none;margin:0 auto" align="center">
-  <tr style="border:none;">
+  <tr style="border:none;"> 
     <td style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"   alt="stats graph" />
-    </td>
-    <td style="border:none;">
- <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="130" alt="rgr" />
+ <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="120" alt="rgr" />
     </td>
   </tr>
 </table>
+
+
  
 
 <!--
