@@ -1,5 +1,9 @@
-
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mibnekhalid/count.svg?"  />
+</div>
+<div>
+  <h1 align="center">Hi 👋, I'm Muhammad Bin Khalid</h1>
+</div>
 <br />
 <p align="center"  text-align="justify">
 I am an independent developer. My focus is on delivering high-quality, user-centric solutions, while continuously expanding my skills in Linux, Web development, Network Engineering, DevOps, CISCO and AWS. My ability to adapt and learn new technologies helps me effectively contribute to diverse projects and deliver impactful results.
