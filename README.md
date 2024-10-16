@@ -12,7 +12,7 @@ I am an independent developer. My focus is on delivering high-quality, user-cent
   <a href="https://MIbnEKhalid.github.io" target="_blank">
     Visit MBK Tech Studio
   </a>  
-  <a href="https://ibnekhalid.me" target="_blank">
+  <a style="margin-left:5px" href="https://ibnekhalid.me" target="_blank">
 Portfolio
   </a>
 </p>
