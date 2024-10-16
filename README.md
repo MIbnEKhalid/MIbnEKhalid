@@ -64,8 +64,6 @@ Portfolio
 
 
 <p  align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" alt="rgr" /></a> </p>
-<br>
-[![wakatime](https://wakatime.com/badge/user/018ebc8f-c218-42ef-9ef3-48791b875e59.svg)](https://wakatime.com/@018ebc8f-c218-42ef-9ef3-48791b875e59)
 
 <!--
 
