@@ -53,11 +53,11 @@ Portfolio
 <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;">
     <td style="border:none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&include_all_commits=true&count_private=true&theme=github-dark&hide_border=true" height="400" alt="stats graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="400px" alt="stats graph" />
     </td>
     <td style="border:none;">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIbnEKhalid&theme=github-dark&hide_border=true"
-      alt="Muhammad Bin Khalid Activity Graph" />
+      alt="Muhammad Bin Khalid Activity Graph" height="400px" />
     </td>
   </tr>
 </table>
