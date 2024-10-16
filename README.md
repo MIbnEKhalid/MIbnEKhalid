@@ -65,13 +65,11 @@ Portfolio
         <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"   alt="stats graph" />
     </td>
     <td style="border:none;">
- <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="100" alt="rgr" />
+ <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="130" alt="rgr" />
     </td>
   </tr>
 </table>
-
-
-<p  align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" alt="rgr" /></a> </p>
+ 
 
 <!--
 
