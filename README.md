@@ -1,23 +1,29 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/mibnekhalid/count.svg?"  />
 </div>
+
 <div>
   <h1 align="center">Hi 👋, I'm Muhammad Bin Khalid</h1>
 </div>
+
 <br />
+
 <p align="center"  text-align="justify">
 I am an independent developer. My focus is on delivering high-quality, user-centric solutions, while continuously expanding my skills in Linux, Web development, Network Engineering, DevOps, CISCO and AWS. My ability to adapt and learn new technologies helps me effectively contribute to diverse projects and deliver impactful results.
 </p>
+
 <p align="center">
   <a href="https://MIbnEKhalid.github.io" target="_blank">
     Visit MBK Tech Studio
   </a>   
-</p><p align="center">
-  
-  <a  href="https://ibnekhalid.me" target="_blank">
-Portfolio
+</p>
+
+<p align="center">
+  <a href="https://ibnekhalid.me" target="_blank">
+    Portfolio
   </a>
 </p>
+
 <br />
 
 <h2 align="center">
@@ -31,19 +37,19 @@ Portfolio
   </a>
 </p>
 
-
-
 <br />
 
 <h2 align="center">
   Stats ⚡️
 </h2>
+
 <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;">
     <td style="border:none;">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=MIbnEKhalid&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
       alt="GitHub Streak" />
-    </td>    <td style="border:none;">
+    </td>   
+    <td style="border:none;">
         <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&hide_title=true&include_all_commits=false&count_private=true&theme=transparent&hide_border=true"   alt="stats graph" />
     </td>
     <td style="border:none;">
@@ -65,11 +71,10 @@ Portfolio
  <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;"> 
     <td style="border:none;">
- <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="120" alt="rgr" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="120" alt="rgr" />
     </td>
   </tr>
-</table>
-
+</table> 
 
  
 
