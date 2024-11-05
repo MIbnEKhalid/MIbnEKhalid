@@ -71,7 +71,7 @@ I am an independent developer. My focus is on delivering high-quality, user-cent
  <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;"> 
     <td style="border:none;">
-      <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="120" alt="rgr" />
+      <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="220" alt="rgr" />
     </td>
   </tr>
 </table> 
