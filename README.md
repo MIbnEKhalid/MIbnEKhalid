@@ -13,18 +13,11 @@ An Independent Developer Passionate About Crafting Meaningful Projects And Contr
 </p>
 
 <p align="center">
-  <a href="https://MIbnEKhalid.github.io" target="_blank">
-    Visit MBK Tech Studio
-  </a>   
+  <a href="https://MIbnEKhalid.github.io" target="_blank"><b>Visit MBK Tech Studio</b></a>
+  <br />
+  <a href="https://ibnekhalid.me" target="_blank"><b>Portfolio</b></a>
 </p>
-
-<p align="center">
-  <a href="https://ibnekhalid.me" target="_blank">
-    Portfolio
-  </a>
-</p>
-
-<br />
+ 
 
 <h2 align="center">
   Technologies 🔧
@@ -32,12 +25,11 @@ An Independent Developer Passionate About Crafting Meaningful Projects And Contr
 
 <p align="center">
   <a >
-   <br /><br />
+   <br />
     <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,unity,html,css,androidstudio,linux,arch,kali,ubuntu,windows"/>
   </a>
 </p>
-
-<br />
+ 
 
 <h2 align="center">
   Stats ⚡️
@@ -78,6 +70,40 @@ An Independent Developer Passionate About Crafting Meaningful Projects And Contr
  </td>
   </tr>
 </table> 
+
+<h2 align="center">
+  Connect With Me ✉️️
+</h2>
+
+
+<p align="center">  
+  <a href="https://www.youtube.com/@MIbnEKhalid" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="LinkedIn" height="50" width="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ibn__e__khalid/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LinkedIn" height="50" width="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thirosh/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mibnekhalid" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" height="50" width="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/ibnekhalid28" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="60" />
+  </a>  
+</p>
+
+<p align="center">
+  📧 You can reach me via email at <a href="mailto:chmuhammadbinkhalid28@gmail.com">chmuhammadbinkhalid28@gmail.com</a> or <a href="mailto:support@mbktechstudio.com">support@mbktechstudio.com</a>.  
+  <br>
+  💬 Alternatively, submit a contact form at <a href="https://mbktechstudio.com/Support" target="_blank">mbktechstudio.com/Support</a>.
+</p>
+
 
  
 
