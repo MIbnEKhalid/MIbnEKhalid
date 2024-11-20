@@ -9,8 +9,7 @@
     An Independent Developer Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
  </p>
  <p align="center">
-    <a href="https://MIbnEKhalid.github.io" target="_blank"><b>Visit MBK Tech Studio</b></a>
-    <br />
+    <a href="https://MIbnEKhalid.github.io" target="_blank"><b>Visit MBK Tech Studio</b></a> |
     <a href="https://ibnekhalid.me" target="_blank"><b>Portfolio</b></a>
  </p>
  <h2 align="center">
