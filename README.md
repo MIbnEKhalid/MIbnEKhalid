@@ -3,13 +3,13 @@
 </div>
 
 <div>
-  <h1 align="center">Hi 👋, I'm Muhammad Bin Khalid</h1>
+  <h1 align="center">I'm Muhammad Bin Khalid</h1>
 </div>
 
 <br />
 
 <p align="center"  text-align="justify">
-I am an independent developer. My focus is on delivering high-quality, user-centric solutions, while continuously expanding my skills in Linux, Web development, Network Engineering, DevOps, CISCO and AWS. My ability to adapt and learn new technologies helps me effectively contribute to diverse projects and deliver impactful results.
+An Independent Developer Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
 </p>
 
 <p align="center">
@@ -71,8 +71,11 @@ I am an independent developer. My focus is on delivering high-quality, user-cent
  <table style="border:none;margin:0 auto" align="center">
   <tr style="border:none;"> 
     <td style="border:none;">
-      <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=onestar" height="220" alt="rgr" />
-    </td>
+ <img src="https://github-profile-trophy.vercel.app?username=MIbnEKhalid&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> 
+ 
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> -->
+ 
+ </td>
   </tr>
 </table> 
 
@@ -94,4 +97,4 @@ I am an independent developer. My focus is on delivering high-quality, user-cent
 <!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ththe"> </a><a href="ko-fi.com/ibnekhalid"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="thy" /></a></p><br><br>
--->
+--> 
