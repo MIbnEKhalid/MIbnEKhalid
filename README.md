@@ -63,7 +63,7 @@
     <a href="https://www.instagram.com/ibn__e__khalid/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LinkedIn" height="50" width="60" />
     </a> 
-    <a href="https://www.linkedin.com/in/thirosh/" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammad-bin-khalid-89711b25b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />
     </a> 
     <a href="https://github.com/mibnekhalid" target="_blank">
