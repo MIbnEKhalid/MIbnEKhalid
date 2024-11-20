@@ -48,8 +48,8 @@
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;">
        <td style="border:none;">
-          <img src="https://github-profile-trophy.vercel.app?username=MIbnEKhalid&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> 
-          <!-- <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> -->
+        <!--  <img src="https://github-profile-trophy.vercel.app?username=MIbnEKhalid&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
+           <img src="https://github-profile-trophy.vercel.app/?username=MIbnEKhalid&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />  
        </td>
     </tr>
  </table>
