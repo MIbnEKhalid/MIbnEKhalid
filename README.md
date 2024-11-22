@@ -59,44 +59,26 @@
 
  
  
- <div class="text-decoration: none;"> </div>
-<h2 align="center">
-  My Projects 🚀
-</h2>
-
-<p align="center">
-<a href="https://github.com/MIbnEKhalid/Quiz-Game-Cpp-CLI">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Quiz-Game-Cpp-CLI&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="Quiz-Game-Cpp-CLI">
-<a href="https://github.com/MIbnEKhalid/CentreTheMessageCpp">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=CentreTheMessageCpp&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="CentreTheMessageCpp">
-</a>
-<a href="https://github.com/MIbnEKhalid/MIbnEKhalid.github.io">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=MIbnEKhalid.github.io&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="MIbnEKhalid.github.io">
-</a>
-<a href="https://github.com/MIbnEKhalid/SMP-Unity">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=SMP-Unity&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="SMP-Unity">
-</a>
-<a href="https://github.com/MIbnEKhalid/SMP-Web">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=SMP-Web&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="SMP-Web">
-</a>
-<a href="https://github.com/MIbnEKhalid/Win-Fake-Virus">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Win-Fake-Virus&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="Win-Fake-Virus">
-</a>
-<a href="https://github.com/MIbnEKhalid/Portfolio.MIbnEKhalid.github.io">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Portfolio.MIbnEKhalid.github.io&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="Portfolio.MIbnEKhalid.github.io">
-</a>
-<a href="https://github.com/MIbnEKhalid/Unilib.MIbnEKhalid.github.io">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Unilib.MIbnEKhalid.github.io&hide_border=true&bg_color=00000000&text_color=ffffff&border_color=ffffff" alt="Unilib.MIbnEKhalid.github.io">
-</a>
-
-
-</p>
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+ 
+  <p align="left">
+    <a href="https://github.com/MIbnEKhalid/Quiz-Game-Cpp-CLI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Quiz-Game-Cpp-CLI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Quiz-Game-Cpp-CLI"></a>
+    <a href="https://github.com/MIbnEKhalid/CentreTheMessageCpp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=CentreTheMessageCpp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CentreTheMessageCpp"></a>
+    <a href="https://github.com/MIbnEKhalid/MIbnEKhalid.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MIbnEKhalid&repo=MIbnEKhalid.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MIbnEKhalid.github.io"></a>
+    <a href="https://github.com/MIbnEKhalid/SMP-Unity"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=SMP-Unity&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SMP-Unity"></a>
+    <a href="https://github.com/MIbnEKhalid/SMP-Web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=SMP-Web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SMP-Web"></a> 
+    <a href="https://github.com/MIbnEKhalid/Win-Fake-Virus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Win-Fake-Virus&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Win-Fake-Virus"></a>
+    <a href="https://github.com/MIbnEKhalid/Portfolio.MIbnEKhalid.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Portfolio.MIbnEKhalid.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio.MIbnEKhalid.github.io"></a>
+    <a href="https://github.com/MIbnEKhalid/Unilib.MIbnEKhalid.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Unilib.MIbnEKhalid.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Unilib.MIbnEKhalid.github.io"></a> 
+  </p>
 
 <p align="center">
   <a href="https://github.com/MIbnEKhalid?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
+</details>
 
  
 
