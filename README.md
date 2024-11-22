@@ -59,9 +59,10 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/MIbnEKhalid/Quiz-Game-Cpp-CLI">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Quiz-Game-Cpp-CLI&hide_border=true" alt="Quiz-Game-Cpp-CLI">
-  </a>
+<a href="https://github.com/MIbnEKhalid/Quiz-Game-Cpp-CLI">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Quiz-Game-Cpp-CLI&hide_border=true&bg_color=00000000" alt="Quiz-Game-Cpp-CLI">
+</a>
+
   <a href="https://github.com/MIbnEKhalid/CentreTheMessageCpp">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=CentreTheMessageCpp&theme=algolia&no-bg=true&hide_border=true&show_icons=false" alt="CentreTheMessageCpp">
   </a>
