@@ -52,6 +52,49 @@
        </td>
     </tr>
  </table>
+ 
+ 
+<h2 align="center">✨ My Projects ✨</h2>
+
+<p align="center">
+  Explore some of my favorite projects! Click on the cards to learn more about each project.
+</p>
+
+<div align="center">
+  <a href="https://github.com/MIbnEKhalid/Quiz-Game-Cpp-CLI">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Quiz-Game-Cpp-CLI&theme=github-dark&bg_color=transparent&hide_border=true" alt="Quiz-Game-Cpp-CLI">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/CentreTheMessageCpp">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=CentreTheMessageCpp&theme=github-dark&bg_color=transparent&hide_border=true" alt="CentreTheMessageCpp">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/MIbnEKhalid.github.io">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=MIbnEKhalid.github.io&theme=github-dark&bg_color=transparent&hide_border=true" alt="MIbnEKhalid.github.io">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/SMP-Unity">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=SMP-Unity&theme=github-dark&bg_color=transparent&hide_border=true" alt="SMP-Unity">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/SMP-Web">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=SMP-Web&theme=github-dark&bg_color=transparent&hide_border=true" alt="SMP-Web">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/Win-Fake-Virus">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Win-Fake-Virus&theme=github-dark&bg_color=transparent&hide_border=true" alt="Win-Fake-Virus">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/Portfolio.MIbnEKhalid.github.io">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Portfolio.MIbnEKhalid.github.io&theme=github-dark&bg_color=transparent&hide_border=true" alt="Portfolio.MIbnEKhalid.github.io">
+  </a>
+  <a href="https://github.com/MIbnEKhalid/Unilib.MIbnEKhalid.github.io">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MIbnEKhalid&repo=Unilib.MIbnEKhalid.github.io&theme=github-dark&bg_color=transparent&hide_border=true" alt="Unilib.MIbnEKhalid.github.io">
+  </a>
+</div>
+
+---
+
+<p align="center"> 
+  <a href="https://github.com/MIbnEKhalid?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</p>
+
  <h2 align="center">
     Connect With Me ✉️️
  </h2>
