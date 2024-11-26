@@ -5,11 +5,12 @@
     <h1 align="center">I'm Muhammad Bin Khalid</h1>
  </div>
  <br />
- <p align="center"  text-align="justify">
- I Am A Student, Software/Web Developer, And Indie Game Developer With Experience In C++, C#, HTML, And CSS.
- 
- As An Independent Developer, I Am Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
- </p>
+<p align="center">
+I Am A Student, Software/Web Developer, And Indie Game Developer With Experience In C++, C#, HTML, And CSS.
+</p>
+<p align="center">
+As An Independent Developer, I Am Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
+</p>
  <p align="center">
     <a href="https://MIbnEKhalid.github.io" target="_blank"><b>Visit MBK Tech Studio</b></a> |
     <a href="https://ibnekhalid.me" target="_blank"><b>Portfolio</b></a>
