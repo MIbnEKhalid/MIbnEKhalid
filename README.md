@@ -6,7 +6,7 @@
  </div>
  <br />
  <p align="center"  text-align="justify">
-    An Independent Developer Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
+    I am a student, software/web developer, and indie game developer with experience in C++, C#, HTML, and CSS. As an independent developer, I am passionate about crafting meaningful projects and contributing to the open-source community. I believe in the power of collaboration and sharing knowledge to empower others.
  </p>
  <p align="center">
     <a href="https://MIbnEKhalid.github.io" target="_blank"><b>Visit MBK Tech Studio</b></a> |
