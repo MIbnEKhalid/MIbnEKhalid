@@ -36,7 +36,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
           <img src="https://github-readme-stats.vercel.app/api?username=MIbnEKhalid&hide_title=true&include_all_commits=false&count_private=true&theme=transparent&hide_border=true"   alt="stats graph" />
        </td>
        <td style="border:none;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbnEKhalid&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,HLSL" alt="MIbnEKhalid Stats" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIbnEKhalid&layout=compact&theme=transparent&hide_border=true&hide=ShaderLab,HLSL,astro,MDX" alt="MIbnEKhalid Stats" />
        </td>
     </tr>
  </table>
