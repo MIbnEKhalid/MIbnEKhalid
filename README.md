@@ -69,7 +69,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;">
        <td style="border:none;"> 
-           <img src="Assets/gif2.gif"   />  
+           <img src="Assets/gif2.gif"/>  
        </td>
     </tr>
  </table>
@@ -77,14 +77,14 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
   <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;margin:0 auto" align="center">
        <td style="border:none;">
-          <img src="Assets/gif3.gif" />
+          <img src="Assets/gif3.gif"/>
        </td>
     </tr>
  </table>
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;">
        <td style="border:none;"> 
-           <img src="Assets/gif4.gif"   />  
+           <img src="Assets/gif4.gif"/>  
        </td>
     </tr>
  </table>
