@@ -58,7 +58,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
  
 
 
-
+<!--
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;margin:0 auto" align="center">
        <td style="border:none;">
@@ -88,7 +88,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
        </td>
     </tr>
  </table>
-
+-->
  
  
 <details open> 
