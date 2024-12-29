@@ -46,8 +46,9 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIbnEKhalid&theme=github-dark&hide_border=true"  alt="Muhammad Bin Khalid Activity Graph" />
        </td>
     </tr>
- </table>
- <table style="border:none;margin:0 auto" align="center">
+ </table> 
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="Trophy" align="middle"  />  
+   <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;">
        <td style="border:none;">
         <!--  <img src="https://github-profile-trophy.vercel.app?username=MIbnEKhalid&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
@@ -55,7 +56,6 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
        </td>
     </tr>
  </table>
- 
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;margin:0 auto" align="center">
        <td style="border:none;">
