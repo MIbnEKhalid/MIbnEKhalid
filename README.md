@@ -6,7 +6,7 @@
  </div>
  <br />
 <p align="center">
-I Am A Student, Software/Web Developer, And Indie Game Developer With Experience In C++, C#, HTML, And CSS.
+I Am A Student, Full Developer, And Indie Game Developer With Experience In Unity, C++, C#, HTML, CSS, Node.Js, React etc.
 </p>
 <p align="center">
 As An Independent Developer, I Am Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
