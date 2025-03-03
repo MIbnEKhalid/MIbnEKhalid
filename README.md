@@ -1,6 +1,10 @@
 <div align="center">
     <img src="https://profile-counter.glitch.me/mibnekhalid/count.svg?"  />
  </div>
+ <br />
+ <div align="center">
+    <img src="https://wakatime.com/badge/user/018ebc8f-c218-42ef-9ef3-48791b875e59.svg"  />
+ </div>
  <div>
     <h1 align="center">I'm Muhammad Bin Khalid</h1>
  </div>
