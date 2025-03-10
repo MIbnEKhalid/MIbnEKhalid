@@ -10,7 +10,7 @@
  </div>
  <br />
 <p align="center">
-I Am A Student, Full Developer, And Indie Game Developer With Experience In Unity, C++, C#, HTML, CSS, Node.Js, React etc.
+I Am A Student, Full Stack Developer And Indie Game Developer With Experience In Unity, C++, C#, HTML, CSS, Node.Js, React etc.
 </p>
 <p align="center">
 As An Independent Developer, I Am Passionate About Crafting Meaningful Projects And Contributing To The Open-Source Community. I Believe In The Power Of Collaboration And Sharing Knowledge To Empower Others.
@@ -60,6 +60,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
        </td>
     </tr>
  </table>
+ <!--
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;margin:0 auto" align="center">
        <td style="border:none;">
@@ -70,7 +71,7 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
        </td>
     </tr>
  </table>
- 
+ -->
  <!--
  <table style="border:none;margin:0 auto" align="center">
     <tr style="border:none;">
