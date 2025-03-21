@@ -23,9 +23,11 @@ As An Independent Developer, I Am Passionate About Crafting Meaningful Projects 
     Technologies 🔧
  </h2>
  <p align="center">
-    <a >
-    <br />
-    <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,unity,html,css,react,androidstudio,linux,arch,kali,ubuntu,windows,nodejs,postgres,vercel"/>
+    <a > 
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,java,cs,unity,html,css,react,androidstudio,linux,arch&perline=11"/>
+    </a>
+    <a > 
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,nodejs,postgres,vercel&perline=11"/>
     </a>
  </p>
  <h2 align="center">
